@@ -26,3 +26,7 @@ I am a Computer Science Engineering student at PESU currently in my 3rd year. I 
 <a href=""><img alt="" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
 
 ## ☎️ Contact me
+
+<a href = "https://www.instagram.com/niranjanrao07/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href = "https://www.linkedin.com/in/niranjan-rao-64a717242/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://wa.me/7795480136" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
