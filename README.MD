@@ -1,6 +1,6 @@
 # Hello, I am Niranjan <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px" width="40px">
 
-I am a Computer Science Engineering student at PESU currently in my 3rd year. I have had many interests since I started my engineering career but Web Development has stood out for me. I am currently mastering my skills in Front-End and Back-End technologies 😁
+I am a Computer Science Engineering student at PESU currently in my 3rd year.
 
 ## 👨‍💻 Languages
 
