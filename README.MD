@@ -33,8 +33,6 @@ I am a Computer Science Engineering student at PESU currently in my 3rd year.
 
 ## 🏆 GitHub Stats 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=NiranjanRao07&count_private=true&theme=tokyonight&showicons=true)]()
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanRao07&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiranjanRao07&theme=tokyonight)](https://git.io/streak-stats)
