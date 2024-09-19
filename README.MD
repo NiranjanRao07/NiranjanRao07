@@ -1,6 +1,6 @@
 # Hello, I am Niranjan <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px" width="40px">
 
-My cuurent skillset revolves around **data analytics, machine learning, and big data processing**, and I’m set to pursue a **Master of Science in Data Analytics** at **San Jose State University** (2024 - 2026).
+My current skillset revolves around **data analytics, machine learning, and big data processing**, and I’m set to pursue a **Master of Science in Data Analytics** at **San Jose State University** (2024 - 2026).
 
 ## 👨‍💻 Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
