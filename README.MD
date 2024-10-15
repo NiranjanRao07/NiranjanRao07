@@ -38,8 +38,3 @@ My current skillset revolves around **data analytics, machine learning, and big 
 <a href = "https://www.instagram.com/niranjanrao07/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href = "https://www.linkedin.com/in/niranjan-rao-cali/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "https://wa.me/7795480136" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
-## 🏆 GitHub Stats 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanRao07&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiranjanRao07&theme=tokyonight)](https://git.io/streak-stats)
