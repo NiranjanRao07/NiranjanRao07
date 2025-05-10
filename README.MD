@@ -22,7 +22,7 @@ My current skillset revolves around **data analytics, machine learning, and big 
 
 ## 📚 Project Experience
 - **CryptoSpark Real-Time Pipeline** – Built an end-to-end AWS solution using **S3** with **IAM**-controlled access, **EC2**-hosted PySpark for data processing, **Spark ML** for modeling, and **Streamlit** for interactive dashboards.
-- **NYC Event Data Analysis** – Built an end-to-end big data pipeline using **PySpark** on **AWS** for real-time data processing, visualizing trends in **Kibana**.
+- **- EEG-based ADHD Detection** – End-to-end ML pipeline: raw EEG preprocessing (filtering, normalization, artifact removal) → time-, frequency-, and non-linear feature extraction → feature engineering (ANOVA F-test, PCA, LDA) → model training (SVM, RF, KNN, LR) with k-fold CV, bagging, and soft-voting ensemble → performance evaluation (accuracy, precision, recall, F1, ROC-AUC)
 - **Emotion Detector** – Created a sentiment analysis tool using **Machine Learning** and won a $1,000 hackathon prize.
 
 ## 🏢 Professional Experience
