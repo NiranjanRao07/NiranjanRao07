@@ -12,13 +12,19 @@ My current skillset revolves around **data analytics, machine learning, and big 
 <a href=""><img alt="" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Streamlit-FF4E00?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
 
 ## 🔧 Tools
 <a href=""><img alt="" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazon-iam&logoColor=white" /></a>
 
 ## 📚 Project Experience
 - **CryptoSpark Real-Time Pipeline** – Built an end-to-end AWS solution using **S3** with **IAM**-controlled access, **EC2**-hosted PySpark for data processing, **Spark ML** for modeling, and **Streamlit** for interactive dashboards.
