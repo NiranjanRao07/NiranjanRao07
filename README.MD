@@ -21,7 +21,7 @@ My current skillset revolves around **data analytics, machine learning, and big 
 <a href=""><img alt="" src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" /></a>
 
 ## 📚 Project Experience
-- **PredictIt Political Data Pipeline** – Developed an automated data pipeline using **Apache Airflow, Snowflake, S3**, and visualized data using **Tableau**.
+- **CryptoSpark Real-Time Pipeline** – Built an end-to-end AWS solution using **S3** with **IAM**-controlled access, **EC2**-hosted PySpark for data processing, **Spark ML** for modeling, and **Streamlit** for interactive dashboards.
 - **NYC Event Data Analysis** – Built an end-to-end big data pipeline using **PySpark** on **AWS** for real-time data processing, visualizing trends in **Kibana**.
 - **Emotion Detector** – Created a sentiment analysis tool using **Machine Learning** and won a $1,000 hackathon prize.
 
