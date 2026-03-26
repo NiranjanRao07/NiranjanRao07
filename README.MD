@@ -1,46 +1,53 @@
-# Hello, I am Niranjan <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px" width="40px">
+# Hello, I'm Niranjan <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px" width="40px">
 
-My current skillset revolves around **data analytics, machine learning, and big data processing**, and I’m set to pursue a **Master of Science in Data Analytics** at **San Jose State University** (2024 - 2026).
+I'm a **Master's student in Applied Data Intelligence** at **San Jose State University** (expected **May 2026**), based in **San Jose, CA**. I build **agentic AI workflows**, **SQL/Python data automation**, and **applied ML** (RAG, evaluation, reliability hardening).
 
-## 👨‍💻 Languages
-<a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+**B.Tech**, Computer Science & Engineering, **PES University** (May 2024).
 
-## 🧰 Libraries and Frameworks
-<a href=""><img alt="" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Streamlit-FF4E00?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
+## Languages
 
-## 🔧 Tools
-<a href=""><img alt="" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazon-iam&logoColor=white" /></a>
+<a href=""><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+<a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 
-## 📚 Project Experience
-- **CryptoSpark Real-Time Pipeline** – Built an end-to-end AWS solution using **S3** with **IAM**-controlled access, **EC2**-hosted PySpark for data processing, **Spark ML** for modeling, and **Streamlit** for interactive dashboards.
-- **EEG-based ADHD Detection** – End-to-end ML pipeline: raw EEG preprocessing (filtering, normalization, artifact removal) → time-, frequency-, and non-linear feature extraction → feature engineering (ANOVA F-test, PCA, LDA) → model training (SVM, RF, KNN, LR) with k-fold CV, bagging, and soft-voting ensemble → performance evaluation (accuracy, precision, recall, F1, ROC-AUC)
-- **Emotion Detector** – Created a sentiment analysis tool using **Machine Learning** and won a $1,000 hackathon prize.
+## Libraries & frameworks
 
-## 🏢 Professional Experience
-- **Business Development Associate**, Scaler Academy (Jan - May 2024) – Conducted data-driven career analyses for engineers, resulting in several high-profile sales.
-- **Teaching Assistant**, PES University (Aug - Dec 2023) – Led machine learning projects and hackathons for over 1,200 students, improving their understanding of advanced topics.
-- **Software Developer Intern**, Multiverse Technologies (Jun - Aug 2022) – Developed frontend features and integrated data-driven solutions for dynamic dashboards.
+<a href=""><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+<a href=""><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+<a href=""><img alt="scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
+<a href=""><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+<a href=""><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" /></a>
+<a href=""><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4E00?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
 
-## 🏆 Achievements
-- **IBM Hackathon Winner** – Won the 2022 IBM Hackathon for a sentiment analysis project deployed on IBM servers.
-- **Auto-Evaluation Script** – Reduced grading time by 50% for over 1,200 students by automating evaluation scripts.
+## Tools & platforms
 
-## ☎️ Contact Me
-<a href = "https://www.instagram.com/niranjanrao07/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href = "https://www.linkedin.com/in/niranjan-rao-cali/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "https://wa.me/7795480136" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href=""><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
+<a href=""><img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" /></a>
+<a href=""><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href=""><img alt="IBM Cloud" src="https://img.shields.io/badge/IBM_Cloud-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /></a>
+<a href=""><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+
+## Selected projects
+
+- **Collaborative Business Co-Pilot Agent** – Multi-agent LLM workflow with **RAG**, tool use, evaluation harness (**Golden Set**), and guardrails; **Python**, **LangChain**, OpenAI API.
+- **Multimodal audio emotion stack** – Speech emotion modeling on RAVDESS; **Python**, TensorFlow; **IBM Cloud** deployment; IBM hackathon **$1,000** award.
+- **ADHD detection (EEG)** – End-to-end ML pipeline: preprocessing, feature extraction, ensembles, cross-validation, metrics (accuracy, F1, ROC-AUC).
+- **TrackFlow** – Full-stack logistics app (**React**, **Node.js**, **Docker**, **AWS** DynamoDB/S3) with operational metrics. [GitHub](https://github.com/NiranjanRao07/TrackFlow)
+
+## Experience
+
+- **Data Analyst Intern**, RPK Investments (May–Aug 2025) – **AI agents** for internal reporting and data processing; success metrics, regression tests, and handoffs; **SQL**/**Python**; roughly **25%** faster cycle time on recurring workflows.
+- **Teaching Assistant (Machine Learning)**, PES University (2023) – ML coursework support; automation that cut grading time **~50%** for **1,200+** submissions.
+- **Software Developer Intern**, Multiverse Technologies (MYn), Bangalore (May–Aug 2022) – Driver and trip dashboards (**React**, APIs, Git).
+
+## Highlights
+
+- **IBM Hackathon** winner (emotion/speech ML, cloud demo).
+- **50%** reduction in grading cycle time via automation (**1,200+** submissions).
+
+## Contact
+
+<a href="https://www.linkedin.com/in/niranjan-rao-cali/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:niranjanraoss1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/NiranjanRao07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
